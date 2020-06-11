@@ -8,6 +8,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import org.json.JSONArray;
@@ -27,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView textView;
     EditText editText;
+    ImageView MahiSir ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
