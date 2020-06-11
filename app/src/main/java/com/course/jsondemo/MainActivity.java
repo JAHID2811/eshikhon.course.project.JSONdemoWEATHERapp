@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView textView;
     EditText editText;
-    ImageView MahiSir ;
+    ImageView MahiSir,sadnan ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
